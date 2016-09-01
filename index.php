@@ -2,4 +2,4 @@
 
 /* something */
 
-echo  phpinfo();
+echo 'Hello motherfather World';
